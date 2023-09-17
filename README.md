@@ -1,5 +1,5 @@
 
-### Análise Exploratória de Dados com Python
+### Detecção de Objetos em Imagens com YOLOv8
 
 ***print('Hello World!')***
 
